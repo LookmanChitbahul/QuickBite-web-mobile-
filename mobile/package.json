@@ -5,9 +5,9 @@
 	"scripts": {
 		"postinstall": "patch-package",
 		"start": "expo start",
-  		"android": "expo run:android",
-  		"ios": "expo run:ios",
-  		"web": "expo start --web"
+		"android": "expo run:android",
+		"ios": "expo run:ios",
+		"web": "expo start --web"
 	},
 	"dependencies": {
 		"@expo-google-fonts/dev": "^0.4.7",
@@ -57,6 +57,7 @@
 		"expo-updates": "~0.28.14",
 		"expo-video": "~2.2.1",
 		"expo-web-browser": "~14.1.6",
+		"firebase": "^12.4.0",
 		"lodash": "^4.17.21",
 		"lucide-react-native": "^0.525.0",
 		"moti": "0.30.0",
